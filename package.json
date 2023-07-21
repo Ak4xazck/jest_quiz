@@ -1,0 +1,17 @@
+{
+  "name": "jest_quiz",
+  "version": "1.0.0",
+  "description": "jestのクイズ用",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@nestjs/common": "^10.1.0",
+    "@nestjs/core": "^10.1.0",
+    "reflect-metadata": "^0.1.13",
+    "rxjs": "^7.8.1"
+  }
+}
